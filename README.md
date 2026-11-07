@@ -15,7 +15,7 @@ Hostel Help is a web application intended to organize student borrowing and peer
 |3|Benjamin Akampurira|M25B13/012|
 |4|Aheebwa Abraham|S24B13/042|
 |<br />5|Nankwanga Fridah|M25B13/033|
-|6|Ayebale Samuel|S25B13/029|
+|6|Ayebare Samuel|S25B13/029|
 
 
 
