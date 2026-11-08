@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.hostelhelp.service.HostelServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.690 s -- in edu.hostelhelp.service.HostelServiceTest
